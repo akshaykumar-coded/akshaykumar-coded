@@ -40,10 +40,6 @@
 
 ---
 
-## 🔗 Portfolio
-- 🎨 UI/UX Portfolio: https://www.behance.net/sharjeelulhaq
-
----
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/akshaykumar-coded

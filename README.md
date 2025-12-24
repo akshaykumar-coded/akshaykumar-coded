@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - Frontend Developer passionate about building clean and modern web interfaces  
 - Strong focus on **React** and **Next.js**  
-- Exploring **AI tools** to improve development workflow  
+- Exploring **AI tools** to improve development workflow 
 - UI-focused developer with attention to design and user experience  
 
 ---

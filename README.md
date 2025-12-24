@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
-<!--
-**akshaykumar-coded/akshaykumar-coded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshaykumar-coded&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Frontend Developer passionate about building clean and modern web interfaces  
+- Strong focus on **React** and **Next.js**  
+- Exploring **AI tools** to improve development workflow  
+- UI-focused developer with attention to design and user experience  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🚀 Frontend
+- React.js  
+- Next.js  
+- HTML, CSS, JavaScript  
+
+### 🧠 AI & Productivity
+- Cursor  
+- ChatGPT  
+- Raycast  
+
+### 🧰 Tools
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 🎨 Design
+- Clean UI implementation  
+- Responsive layouts  
+- User-friendly and modern design approach  
+
+---
+
+## 🔗 Portfolio
+- 🎨 UI/UX Portfolio: https://www.behance.net/sharjeelulhaq
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/akshaykumar-coded
+
+---
+
+⭐ *Always learning and building better web experiences*

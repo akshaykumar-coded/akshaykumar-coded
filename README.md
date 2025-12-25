@@ -13,14 +13,20 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- ⭐ SUPER PROMINENT REPOSITORY BUTTON - ATTENTION GRABBER ⭐ -->
-<br><br>
+## 📫 Let's Connect
+
+<div align="center">
+
+<!-- GIANT ANIMATED REPOSITORY BUTTON -->
+<br>
 
 <a href="https://github.com/akshaykumar-coded?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=500&color=FFD700&background=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+EXPLORE+MY+REPOSITORIES+🚀;📂+VIEW+ALL+PROJECTS+%26+CODE+📂" alt="Repository Button" style="border-radius: 20px; box-shadow: 0 0 30px rgba(187, 134, 252, 0.8);" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=100&section=header&text=🔥+VIEW+ALL+REPOSITORIES+🔥&fontSize=35&fontColor=fff&animation=blinking&fontAlignY=50&desc=Click+Here+to+Explore+My+Projects&descSize=20&descAlignY=75" />
 </a>
 
-<br>
+<br><br>
+
+</div>
 
 <!-- Animated Arrow Pointing to Button -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6D00&center=true&vCenter=true&width=600&lines=👆+CLICK+ABOVE+TO+SEE+MY+WORK+👆;✨+CHECK+OUT+MY+PROJECTS+✨" />
@@ -159,20 +165,7 @@ graph LR
 
 ---
 
-## 📫 Let's Connect
 
-<div align="center">
-
-<!-- GIANT ANIMATED REPOSITORY BUTTON -->
-<br>
-
-<a href="https://github.com/akshaykumar-coded?tab=repositories">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=100&section=header&text=🔥+VIEW+ALL+REPOSITORIES+🔥&fontSize=35&fontColor=fff&animation=blinking&fontAlignY=50&desc=Click+Here+to+Explore+My+Projects&descSize=20&descAlignY=75" />
-</a>
-
-<br><br>
-
-</div>
 
 <br>
 

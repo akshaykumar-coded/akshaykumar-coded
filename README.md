@@ -13,12 +13,6 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- Animated Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaykumar-coded/akshaykumar-coded/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshaykumar-coded/akshaykumar-coded/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshaykumar-coded/akshaykumar-coded/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 

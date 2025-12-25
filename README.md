@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" />
 </p>
 
+<!-- PROMINENT REPOSITORY BUTTON -->
+<br>
+<a href="https://github.com/akshaykumar-coded?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_VIEW_MY_REPOSITORIES-BB86FC?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=github&logoWidth=30" height="60" />
+</a>
+<br>
+<br>
 
 </div>
 
@@ -127,10 +134,6 @@ Leveraging latest frameworks and AI tools for efficient development
 
 ---
 
-
-
-
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -152,9 +155,16 @@ graph LR
 
 ## 📫 Let's Connect
 
+<div align="center">
 
+<!-- Repository Button Repeated for Easy Access -->
+<a href="https://github.com/akshaykumar-coded?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_EXPLORE_MY_PROJECTS-BB86FC?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=github&logoWidth=30" height="50" />
+</a>
 
+</div>
 
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 

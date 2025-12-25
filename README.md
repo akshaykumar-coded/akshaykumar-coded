@@ -18,7 +18,7 @@
 const akshay = {
     role: "Frontend Developer",
     company: "Coded Realities (U.S.-Based Engineering Lab)",
-    location: "Remote",
+    location: "Islamabad",
     focus: ["Clean Code", "User Experience", "Performance"],
     passion: "Building scalable & pixel-perfect web interfaces"
 };
